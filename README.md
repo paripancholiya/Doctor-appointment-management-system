@@ -7,10 +7,10 @@ This repository contains the source code for a simple **Doctor Appointment Manag
 | Field | Value |
 | :--- | :--- |
 | **Project Name** | Doctor Appointment System |
-| **Course** | Introduction to Problem Solving and Programming |
-| **Submitted By** | N Nishchay Reddy |
-| **Registration Number** | 25BAS10058 |
-| **Submitted To** | Dr. Adayasha Sahu |
+| **Course** | Fundamentals in AI and ML |
+| **Submitted By** | Pari pancholiya |
+| **Registration Number** | 25BSA10049 |
+| **Submitted To** | Dr.Vivek Parashar |
 | **Institute** | VIT Bhopal University |
 | **Language** | Python 3 |
 
